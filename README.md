@@ -98,12 +98,6 @@ A built-in regression dataset from Scikit-Learn used to predict disease progress
 
 ---
 
-## 🏁 Conclusion
-
-Ridge Regression is an effective regularization technique that improves the performance of Linear Regression models by controlling coefficient magnitude. It helps create more stable and generalizable models, especially when dealing with complex datasets and correlated features.
-
----
-
 ## 💻 Technologies Used
 
 * Python
@@ -111,3 +105,11 @@ Ridge Regression is an effective regularization technique that improves the perf
 * Pandas
 * Matplotlib
 * Scikit-Learn
+
+---
+
+## 🏁 Conclusion
+
+Ridge Regression is an effective regularization technique that improves the performance of Linear Regression models by controlling coefficient magnitude. It helps create more stable and generalizable models, especially when dealing with complex datasets and correlated features.
+
+
